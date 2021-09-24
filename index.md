@@ -1,7 +1,7 @@
 ## Introduction
-I would introduce myself in the following two part:
-[person](#person)
-[programmer](#programmer)
+I would introduce myself in the following two part:  
+[person](#person)   
+[programmer](#programmer)    
 
 ### Person
 my name is **Zedian Zhang**, I like playing vidoe game and traveling with my friends. My favorite food are:
